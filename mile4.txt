@@ -1,0 +1,49 @@
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body style="background-color :lightblue;">
+<h2 style="color:green;">Responsive Image</h2>
+
+<p>Water (chemical formula H2O) is an inorganic, transparent, tasteless, odorless, and nearly colorless chemical substance, which is the main constituent of Earth's hydrosphere and the fluids of all known living organisms
+<img src=https://i0.wp.com/cdn-prod.medicalnewstoday.com/content/images/articles/320/320216/rose-water-in-small-glass-bottle-next-to-rose-flower.jpg?w=1155&h=1541;">
+<p><big><b>water</b></big>water, a substance composed of the chemical elements hydrogen and oxygen and existing in gaseous, liquid, and solid states. It is one of the most plentiful and essential of compounds. A tasteless and odourless liquid at room temperature, it has the important ability to dissolve many other substances. Indeed, the versatility of water as a solvent is essential to living organisms. Life is believed to have originated in the aqueous solutions of the world’s oceans, and living organisms depend on aqueous solutions, such as blood and digestive juices, for biological processes. Water also exists on other planets and moons both within and beyond the solar system. In small quantities water appears colourless, but water actually has an intrinsic blue colour caused by slight absorption of light at red wavelengths.
+</body>
+</html>
+
+<html>
+<head>
+<body>
+<h1><u>APPLICATION FORM</u></h1>
+<h2><u>REGISTRATION OF STUDENTS FOR AN ONLINE EXAM TCS FORM</U></h2>
+<form>
+<lable for="fname">Name:</lable><br>
+<input type="text" id="fname" name="fname" value=""><br>
+<lable for="roll no">Roll No:</lable><br>
+<input type="text" id="roll  no"name="roll no" value=""><br>
+<lable for="parent details">Parent Details:</lable><br>
+<input type="text" id="parent details"name="parent details" value=""><br>
+<lable for="father's name">Father's name:</lable><br>
+<input type="text" id="father's details"name="father's details" value=""><br>
+<lable for="aadhar number">Aadhar Number:</lable><br>
+<input type="text"id="aadhar number"name="aadhar number" value=""><br>
+<lable for="address">Address:</lable><br>
+<input type="text"id="address"name="address" value=""><br>
+<lable for="qualification">Qualification:</lable><br>
+<input type="text"id="qualification"name="qualification" value=""><br>
+<lable for="courses completed">Courses Completed:</lable><br>
+<input type="text"id="courses completed"name="courses completed" value=""><br>
+<lable for="xth cgpa">Xth CGPA:</lable><br>
+<input type="text"id="xth cgpa"name="xth cgpa" value=""><br>
+<lable for="x11th cgpa">X11th CGPA:</lable><br>
+<input type="text"id="x11th cgpa"name="x11th cgpa" value=""><br>
+<lable for="upload resume">Upload Resume:</lable><br>
+<input type="text"id="upload resume"name="upload resume" value=""><br>
+<lable for="upload photo">Upload Photo:</lable><br>
+<input type="text"id="upload photo"name="upload photo" value=""><br>
+<br>
+<input type="submit" value="Submit">
+</form>
+</body>
+</head>
+</html>
